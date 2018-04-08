@@ -251,10 +251,7 @@ public class WXPayEntryActivity extends Activity implements IWXAPIEventHandler{
 ## Help
 If it is helpful to you, could you buy me a cup of coffee?
 
-### Wechat
-![](http://img.blog.csdn.net/20170302140650271)
-### Ali
-![支付宝支付](http://img.blog.csdn.net/20170302140734345)
+
 
 
 ## Lisence
