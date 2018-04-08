@@ -242,10 +242,10 @@ public class WXPayEntryActivity extends Activity implements IWXAPIEventHandler{
 ## Document
 
 ###  wehcat pay official document
-https://pay.weixin.qq.com/wiki/doc/api/app/app.php?chapter=8_5
+
 
 ###  ali pay official document
-https://doc.open.alipay.com/docs/doc.htm?spm=a219a.7629140.0.0.sdGXaH&treeId=204&articleId=105296&docType=1
+
 
 
 ## Help
